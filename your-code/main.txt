@@ -1,0 +1,13 @@
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/GamesvsYear/GAMESVSYEAR?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/W-LYearTeam/W-LYearTeam?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/WinLossHome-Away/Win-LossHome-Away?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Av_TeamScorevsOppScore/Av_TeamScorevsOppScore?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/PassingEfficiencyTable/PassingEfficiency?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/TreeMap_16511834121730/PassingEfficencyTreeMap?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/DeffensiveStatsbyW/DeffensiveStatsbyW?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/OpScorebyTeam/OpScorebyTeam?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Dashboard_16511835403470/Dashboard1?publish=yes
+
+
+
+
